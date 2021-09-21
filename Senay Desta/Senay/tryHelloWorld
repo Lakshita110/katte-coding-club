@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang='en' dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>say hello world</title>
+    </head>
+    <body>
+
+
+        <h2>myname is: <span id="start"></span></h2>
+        
+        <h2>Result: <span id="result"></span></h2>
+
+        <button id="try">rock</button>
+       
+
+     <script src="fyi" charset="utf-8"></script>
+    </body> 
+</html>
