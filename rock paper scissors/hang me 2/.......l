@@ -1,4 +1,3 @@
-
 <HTML>
 <HEAD>
 <TITLE>Hangman</TITLE>
@@ -12,7 +11,7 @@ gallows = new Array("--------n|      |n|n|n|n|n=====",
 "--------n|      On|     \|/n|      |n|     /n|n=====",
 "--------n|      On|     \|/n|      |n|     / \n|n=====")
 guessChoices = new
-Array("JavaScript","Navigator","LiveConnect","LiveWire")
+Array("JavaScript","Navigator","LiveConnect","LiveWire","SenayDesta","TheGreatest")
 function startAgain() {
  guesses = 0
  max = gallows.length-1
