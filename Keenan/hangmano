@@ -1,4 +1,5 @@
 import random
+words = ['starwars', 'cucumber', 'hippopotamus', 'pitbull', 'dictator', 'help', 'dailymotion', 'youtube']
 guess = words[random.randint(0, len(words)-1)].upper()
 display = []
 for x in guess:
