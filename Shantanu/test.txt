@@ -1,1 +1,3 @@
 test
+Meow
+Input("What do you want to meow?")
